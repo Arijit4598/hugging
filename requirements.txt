@@ -4,3 +4,4 @@ transformers
 huggingface_hub
 accelerate
 sentencepiece
+python-dotenv
